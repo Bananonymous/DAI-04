@@ -73,5 +73,4 @@ java -jar target/java-intellij-idea-and-maven-1.0-SNAPSHOT.jar goodbye -f "See y
 
 ## About this readme
 This readme was partially generated using AI.
-```
 
